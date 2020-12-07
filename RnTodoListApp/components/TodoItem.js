@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     },
     delete: {
         marginLeft: 20,
-        marginRight: 20,  
+        marginRight: 20,
     },
 });
 
